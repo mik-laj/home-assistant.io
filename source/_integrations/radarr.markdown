@@ -3,6 +3,7 @@ title: Radarr
 description: Instructions on how to integrate Radarr sensors with Home Assistant
 ha_category:
   - Downloading
+  - Calendar
 ha_release: 0.47
 ha_config_flow: true
 ha_iot_class: Local Polling
